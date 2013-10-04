@@ -1,6 +1,6 @@
 cpyparser
 =========
 
-A tool which will convert python 3.2 source files to C source files. It will allow users to leverage the speed of C code by through Python source code.
+A tool which will convert python 3.2 source files to C source files. It will allow users to leverage the speed of C code through Python source code.
 
 
