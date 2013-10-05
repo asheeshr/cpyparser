@@ -1,0 +1,37 @@
+Python has the following keywords or reserved words; they cannot be used as identifiers. The uncommented ones will be covered in this phase.
+
+and
+as
+#assert
+break
+#class
+continue
+def
+?del
+elif
+else
+#except - error handling
+#exec (changed to a built-in function in 3.x)
+False (added in 3.x)
+#finally - error handling
+for
+from
+global
+if
+import
+in
+is
+#lambda
+#None (added in 3.x)
+?nonlocal (added in 3.x)
+not
+or
+pass
+print (changed to a built-in function in 3.x)
+#raise - error handling
+return
+True (added in 3.x)
+#try - error
+while
+?with
+#yield
