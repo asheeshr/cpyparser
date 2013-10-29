@@ -1,9 +1,5 @@
-//error aa rahi hai dekh lo
-//code ho hi nahi paa rha line 50
-//do din se laga hua hu
-//50.20 C:\Users\Osank\Desktop\cpy3.cpp [Error] ISO C++ forbids comparison between pointer and integer [-fpermissive] 
-
-
+//code resolved
+//thanks to aasheesh for pointing out the error
 #include<iostream>
 #include <stdio.h>
 #include <stdlib.h>
@@ -48,7 +44,7 @@ for(k=0;k<i;k++)
 	while(j<s)
 	{
 	
-	while(arra[k][j]==" ")
+	while(arra[k][j]==' ')
 	{
 		word[c]=arra[k][j];
 		j++;
